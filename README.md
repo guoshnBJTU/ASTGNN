@@ -2,7 +2,7 @@
 
 This is a Pytorch implementation of ASTGNN. Now the corresponding paper is available online at https://ieeexplore.ieee.org/document/9346058.
 
-![ASTGNN architecture.png](ASTGNN architecture.png)
+![ASTGNN.png](ASTGNN.png)
 
 # Train and Test
 
@@ -38,4 +38,4 @@ nohup python -u train_ASTGNN.py --config configurations/PEMS04_rdw.conf --cuda=1
 
 The settings for each experiments are given in the "configurations" folder.
 
-If you find the repository is useful, please cite our paper. Thank you.
+If you find the repository is useful, please cite our paper. Thank you~
